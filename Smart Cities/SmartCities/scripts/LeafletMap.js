@@ -43,9 +43,11 @@ function buildMap() {
     }).addTo(mymap);
 }
 
-function drawArea(celLat, celLong, color, icon) {
-    L.marker([celLat, celLong], { icon: icon }).addTo(mymap);
-    L.circle([celLat, celLong], { color: color, fillColor: color, fillOpacity: 0.5, radius: 300 }).addTo(mymap);
+function drawArea(celLat, celLong, color, icon, text) {
+    let marker = L.marker([celLat, celLong], { icon: icon }).addTo(mymap);
+    marker.bindPopup("<b>" + text + "</b>");
+    let circle = L.circle([celLat, celLong], { color: color, fillColor: color, fillOpacity: 0.5, radius: 300 }).addTo(mymap);
+    circle.bindPopup(text);
 }
 
 function refreshMap() {
@@ -77,13 +79,13 @@ function refreshMap() {
                 let celLong = value["CelLong"];
 
                 if (count === 1) {
-                    drawArea(celLat, celLong, 'green', greenIcon);
+                    drawArea(celLat, celLong, 'green', greenIcon, "1 call");
                 } else if (count === 2) {
-                    drawArea(celLat, celLong, 'yellow', yellowIcon);                    
+                    drawArea(celLat, celLong, 'yellow', yellowIcon, "2 calls");                    
                 } else if (count === 3) {
-                    drawArea(celLat, celLong, 'orange', orangeIcon);                   
+                    drawArea(celLat, celLong, 'orange', orangeIcon, "3 calls");                   
                 } else {
-                    drawArea(celLat, celLong, 'red', redIcon);                    
+                    drawArea(celLat, celLong, 'red', redIcon, "4+ calls");                    
                 }
             })
         },
