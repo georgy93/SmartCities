@@ -1,0 +1,398 @@
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\ApplicationInsights.config
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\csc.exe
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\System.Collections.Immutable.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\System.Reflection.Metadata.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\vbc.exe
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe.config
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\SmartCities.dll.config
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\SmartCities.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\SmartCities.pdb
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\DAL.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.Web.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.Web.Infrastructure.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Helpers.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Mvc.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Razor.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Webpages.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\DAL.pdb
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.Web.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Razor.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Webpages.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Helpers.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\bin\System.Web.Mvc.xml
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\obj\Debug\SmartCities.csprojResolveAssemblyReference.cache
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\obj\Debug\SmartCities.dll
+D:\Програмиране\C #\Microsoft\SmartCities\SmartCities\obj\Debug\SmartCities.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\ApplicationInsights.config
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\csc.exe
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\vbc.exe
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\SmartCities.dll.config
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\SmartCities.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\SmartCities.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\DAL.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.Web.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Helpers.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Mvc.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Razor.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\DAL.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.Web.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Razor.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Helpers.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.Web.Mvc.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\obj\Debug\SmartCities.csprojResolveAssemblyReference.cache
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\obj\Debug\SmartCities.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\obj\Debug\SmartCities.pdb
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\SmartCities.dll.config
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\SmartCities.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\SmartCities.pdb
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\DAL.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\DAL.pdb
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\SmartCities\SmartCities\obj\Debug\SmartCities.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SmartCities\SmartCities\obj\Debug\SmartCities.dll
+C:\Users\Asus\Desktop\SmartCities\SmartCities\obj\Debug\SmartCities.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\AutoMapper.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\SmartCities.DTO.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.ValueTuple.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\SmartCities.DTO.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\AutoMapper.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\AutoMapper.xml
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities\bin\System.ValueTuple.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\SmartCities.dll.config
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\SmartCities.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\SmartCities.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\AutoMapper.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\DAL.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\SmartCities.DTO.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.ValueTuple.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Webpages.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\DAL.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\SmartCities.DTO.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\AutoMapper.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\AutoMapper.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.ValueTuple.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Webpages.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\obj\Debug\SmartCities.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\obj\Debug\SmartCities.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\obj\Debug\SmartCities.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Ninject.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Ninject.Web.Common.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\WebActivator.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Ninject.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Ninject.xml
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Ninject.Web.Common.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\SmartCities\bin\Ninject.Web.Common.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\ApplicationInsights.config
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\csc.exe
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\System.Collections.Immutable.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\System.Reflection.Metadata.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\vbc.exe
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\roslyn\VBCSCompiler.exe.config
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\SmartCities.dll.config
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\SmartCities.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\SmartCities.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\AutoMapper.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\DAL.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.Web.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.Web.Infrastructure.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Ninject.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Ninject.Web.Common.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\SmartCities.DTO.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.ValueTuple.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Helpers.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Mvc.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Razor.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Webpages.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\WebActivator.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\DAL.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\SmartCities.DTO.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\AutoMapper.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\AutoMapper.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.DependencyCollector.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.Web.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.AI.WindowsServer.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.ApplicationInsights.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Ninject.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Ninject.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Ninject.Web.Common.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\Ninject.Web.Common.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.ValueTuple.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Razor.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Webpages.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Webpages.Deployment.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Webpages.Razor.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Helpers.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\bin\System.Web.Mvc.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\obj\Debug\SmartCities.csprojResolveAssemblyReference.cache
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\obj\Debug\SmartCities.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\SmartCities\obj\Debug\SmartCities.pdb
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\SmartCities.dll.config
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\SmartCities.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\SmartCities.pdb
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\AutoMapper.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\DAL.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Ninject.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Ninject.Web.Common.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\SmartCities.DTO.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.ValueTuple.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\WebActivator.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\DAL.pdb
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\SmartCities.DTO.pdb
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\AutoMapper.pdb
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\AutoMapper.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Ninject.pdb
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Ninject.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Ninject.Web.Common.pdb
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\Ninject.Web.Common.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.ValueTuple.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\obj\Debug\SmartCities.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\obj\Debug\SmartCities.dll
+C:\Users\Asus\Desktop\SmartCities With Ninject\SmartCities\obj\Debug\SmartCities.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\ApplicationInsights.config
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\csc.exe
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\System.Collections.Immutable.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\System.Reflection.Metadata.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\vbc.exe
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\VBCSCompiler.exe
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\roslyn\VBCSCompiler.exe.config
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\SmartCities.dll.config
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\SmartCities.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\SmartCities.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\AutoMapper.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\DAL.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.DependencyCollector.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.Web.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.WindowsServer.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.ApplicationInsights.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.Web.Infrastructure.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Ninject.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Ninject.Web.Common.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\SmartCities.DTO.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.ValueTuple.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Helpers.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Mvc.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Razor.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Deployment.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Razor.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\WebActivator.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\DAL.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\SmartCities.DTO.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\AutoMapper.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\AutoMapper.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.DependencyCollector.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.Web.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.AI.WindowsServer.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.ApplicationInsights.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Ninject.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Ninject.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Ninject.Web.Common.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\Ninject.Web.Common.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.ValueTuple.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Razor.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Deployment.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Webpages.Razor.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Helpers.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\bin\System.Web.Mvc.xml
+D:\Adastra\SmartCities With Ninject\SmartCities\obj\Debug\SmartCities.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\obj\Debug\SmartCities.pdb

@@ -1,0 +1,36 @@
+D:\Програмиране\C #\Microsoft\SmartCities\DAL\bin\Debug\DAL.dll
+D:\Програмиране\C #\Microsoft\SmartCities\DAL\bin\Debug\DAL.pdb
+D:\Програмиране\C #\Microsoft\SmartCities\DAL\obj\Debug\DAL.dll
+D:\Програмиране\C #\Microsoft\SmartCities\DAL\obj\Debug\DAL.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\DAL\bin\Debug\DAL.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\DAL\bin\Debug\DAL.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\DAL\obj\Debug\DAL.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\Desktop\SmartCities\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\SmartCities\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\SmartCities\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\SmartCities\DAL\obj\Debug\DAL.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\DAL\bin\Debug\SmartCities.DTO.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\DAL\bin\Debug\SmartCities.DTO.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\DAL\bin\Debug\SmartCities.DTO.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\DAL\bin\Debug\SmartCities.DTO.pdb
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\SmartCitiesWithCircles\SmartCities\DAL\obj\Debug\DAL.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\DAL\bin\Debug\DAL.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\DAL\bin\Debug\DAL.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\DAL\bin\Debug\SmartCities.DTO.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\DAL\bin\Debug\SmartCities.DTO.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Adastra\SmartCities With Ninject\SmartCities\DAL\obj\Debug\DAL.dll
+D:\Adastra\SmartCities With Ninject\SmartCities\DAL\obj\Debug\DAL.pdb
+D:\Adastra\SmartCities With Ninject\DAL\bin\Debug\DAL.dll
+D:\Adastra\SmartCities With Ninject\DAL\bin\Debug\DAL.pdb
+D:\Adastra\SmartCities With Ninject\DAL\bin\Debug\SmartCities.DTO.dll
+D:\Adastra\SmartCities With Ninject\DAL\bin\Debug\SmartCities.DTO.pdb
+D:\Adastra\SmartCities With Ninject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Adastra\SmartCities With Ninject\DAL\obj\Debug\DAL.dll
+D:\Adastra\SmartCities With Ninject\DAL\obj\Debug\DAL.pdb

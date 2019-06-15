@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCities", "SmartCities\SmartCities.csproj", "{12BB05A1-B926-4969-B86B-22936CC15A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C6A73286-9EFB-442D-8885-0F072CA73401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCities.DTO", "SmartCities.DTO\SmartCities.DTO.csproj", "{093F2246-9DD4-4887-852F-7A80320C0D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BB05A1-B926-4969-B86B-22936CC15A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BB05A1-B926-4969-B86B-22936CC15A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BB05A1-B926-4969-B86B-22936CC15A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BB05A1-B926-4969-B86B-22936CC15A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A73286-9EFB-442D-8885-0F072CA73401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A73286-9EFB-442D-8885-0F072CA73401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A73286-9EFB-442D-8885-0F072CA73401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A73286-9EFB-442D-8885-0F072CA73401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093F2246-9DD4-4887-852F-7A80320C0D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093F2246-9DD4-4887-852F-7A80320C0D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093F2246-9DD4-4887-852F-7A80320C0D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093F2246-9DD4-4887-852F-7A80320C0D98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

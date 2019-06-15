@@ -1,0 +1,54 @@
+﻿@model SmartCities.Models.SearchObjectVm
+
+<script src="~/scripts/jquery-3.0.0.js"></script>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Filters</h3>
+    </div>
+    <div class="panel-body">
+        <h4>Gender</h4>
+        <div class="form-horizontal">
+            @Html.CheckBoxFor(x => x.IncludeMale, new { id = "includeMale", @class = "filter-option" })
+            @Html.LabelFor(x => x.IncludeMale)
+        </div>
+        <div class="form-horizontal">
+            @Html.CheckBoxFor(x => x.IncludeFemale, new { id = "includeFemale", @class = "filter-option" })
+            @Html.LabelFor(x => x.IncludeFemale)
+        </div>
+        <div class="form-horizontal">
+            @Html.CheckBoxFor(x => x.IncludeUnknowGender, new { id = "includeUnknowGender", @class = "filter-option" })
+            @Html.LabelFor(x => x.IncludeUnknowGender)
+        </div>
+
+        <br />
+        <h4> Age</h4>
+        <div class="form-horizontal">
+            @Html.CheckBoxFor(x => x.Include_18_to_25, new { id = "include_18_to_25", @class = "filter-option" })
+            @Html.LabelFor(x => x.Include_18_to_25)
+        </div>
+        <div class="form-horizontal" ">
+            @Html.CheckBoxFor(x => x.Include_26_to_35, new { id = "include_26_to_35", @class = "filter-option" })
+            @Html.LabelFor(x => x.Include_26_to_35)
+        </div>
+        <div class="form-horizontal">
+            @Html.CheckBoxFor(x => x.Include_36_to_45, new { id = "include_36_to_45", @class = "filter-option" })
+            @Html.LabelFor(x => x.Include_36_to_45)
+        </div>
+        <div class="form-horizontal">
+            @Html.CheckBoxFor(x => x.Include_46_to_65, new { id = "include_46_to_65", @class = "filter-option" })
+            @Html.LabelFor(x => x.Include_46_to_65)
+        </div>
+        <div class="form-horizontal">
+            @Html.CheckBoxFor(x => x.Include_66_to_100, new { id = "include_66_to_100", @class = "filter-option" })
+            @Html.LabelFor(x => x.Include_66_to_100)
+        </div>
+
+        <br />
+        <div class="datepicker2">
+            @Html.TextBox("YourTextBox", "", new { id = "startDate", @class = "date-picker" })
+            @Html.LabelFor(x => x.StartDate)
+        </div>
+    </div>
+</div>
+

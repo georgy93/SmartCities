@@ -1,0 +1,10 @@
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities.DTO\bin\Debug\SmartCities.DTO.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities.DTO\bin\Debug\SmartCities.DTO.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities.DTO\obj\Debug\SmartCities.DTO.dll
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities.DTO\obj\Debug\SmartCities.DTO.pdb
+C:\Users\georgi.n.georgiev\Desktop\SmartCities\SmartCities.DTO\obj\Debug\SmartCities.DTO.csprojResolveAssemblyReference.cache
+D:\Adastra\SmartCities With Ninject\SmartCities.DTO\bin\Debug\SmartCities.DTO.dll
+D:\Adastra\SmartCities With Ninject\SmartCities.DTO\bin\Debug\SmartCities.DTO.pdb
+D:\Adastra\SmartCities With Ninject\SmartCities.DTO\obj\Debug\SmartCities.DTO.csprojResolveAssemblyReference.cache
+D:\Adastra\SmartCities With Ninject\SmartCities.DTO\obj\Debug\SmartCities.DTO.dll
+D:\Adastra\SmartCities With Ninject\SmartCities.DTO\obj\Debug\SmartCities.DTO.pdb
