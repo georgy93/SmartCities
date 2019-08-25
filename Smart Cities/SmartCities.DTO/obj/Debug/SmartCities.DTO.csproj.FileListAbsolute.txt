@@ -8,3 +8,7 @@ D:\Adastra\SmartCities With Ninject\SmartCities.DTO\bin\Debug\SmartCities.DTO.pd
 D:\Adastra\SmartCities With Ninject\SmartCities.DTO\obj\Debug\SmartCities.DTO.csprojResolveAssemblyReference.cache
 D:\Adastra\SmartCities With Ninject\SmartCities.DTO\obj\Debug\SmartCities.DTO.dll
 D:\Adastra\SmartCities With Ninject\SmartCities.DTO\obj\Debug\SmartCities.DTO.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities.DTO\bin\Debug\SmartCities.DTO.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities.DTO\bin\Debug\SmartCities.DTO.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities.DTO\obj\Debug\SmartCities.DTO.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities.DTO\obj\Debug\SmartCities.DTO.pdb

@@ -34,3 +34,10 @@ D:\Adastra\SmartCities With Ninject\DAL\bin\Debug\SmartCities.DTO.pdb
 D:\Adastra\SmartCities With Ninject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\Adastra\SmartCities With Ninject\DAL\obj\Debug\DAL.dll
 D:\Adastra\SmartCities With Ninject\DAL\obj\Debug\DAL.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\DAL\bin\Debug\DAL.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\DAL\bin\Debug\DAL.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\DAL\bin\Debug\SmartCities.DTO.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\DAL\bin\Debug\SmartCities.DTO.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\DAL\obj\Debug\DAL.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\DAL\obj\Debug\DAL.pdb

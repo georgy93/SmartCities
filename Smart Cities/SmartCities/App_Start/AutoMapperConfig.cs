@@ -1,9 +1,10 @@
-﻿using AutoMapper;
-using SmartCities.DTO;
-using SmartCities.Models;
-
-namespace SmartCities.App_Start
+﻿namespace SmartCities.App_Start
 {
+    using AutoMapper;
+    using DTO;
+    using Models;
+    using ViewModels;
+
     public class AutoMapperConfig
     {
         public static void Configure()
@@ -18,8 +19,8 @@ namespace SmartCities.App_Start
         {
             public SmartCitiesProfile()
             {
-                CreateMap<SearchObjectVm, SearchObjectDTO>().ReverseMap();
-                CreateMap<SearchResultVm, SearchResultDTO>().ReverseMap();
+                CreateMap<SearchObjectModel, SearchObjectDTO>();
+                CreateMap<SearchResultDTO, SearchResultViewModel>();
             }
         }
     }

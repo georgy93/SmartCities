@@ -1,17 +1,15 @@
-﻿using System.Configuration;
-using System.Data.SqlClient;
-
-namespace DAL
+﻿namespace DAL
 {
+    using System.Configuration;
+    using System.Data.SqlClient;
+
     public class DB
     {
         public static string ConnectionString
         {
             get
             {
-                string connStr = ConfigurationManager.ConnectionStrings["DbConnection"].ToString();
-                
-                return connStr;
+                return ConfigurationManager.ConnectionStrings["DbConnection"].ToString();                
             }
         }
 

@@ -1,16 +1,16 @@
-﻿using AutoMapper;
-using DAL.Abstract;
-using SmartCities.DTO;
-using SmartCities.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using System.Web.Mvc;
-
-namespace SmartCities.Controllers
+﻿namespace SmartCities.Controllers
 {
+    using DAL.Abstract;
+    using DTO;
+    using Models;
+    using System.Collections.Generic;
+    using System.Threading.Tasks;
+    using System.Web.Mvc;
+    using ViewModels;
+
     public class HomeController : BaseController
     {
-        private ICDRMapManager cdrMapManager;
+        private readonly ICDRMapManager cdrMapManager;
 
         public HomeController(ICDRMapManager mapManager)
         {
@@ -27,13 +27,13 @@ namespace SmartCities.Controllers
             return PartialView();
         }
 
-        public async Task<ActionResult> GetCDRcoordinates(SearchObjectVm searchObj)
+        public async Task<ActionResult> GetCDRcoordinates(SearchObjectModel searchObj)
         {
-            var searchObjDto = Mapper.Map<SearchObjectDTO>(searchObj);
-            
+            var searchObjDto = MapModelToDto<SearchObjectDTO>(searchObj);
+
             var resultDto = await cdrMapManager.GetCDRData(searchObjDto);
 
-            var result = Mapper.Map<List<SearchResultVm>>(resultDto);
+            var result = MapDtoToViewModel<List<SearchResultViewModel>>(resultDto);
 
             return Json(result, JsonRequestBehavior.AllowGet);
         }

@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace SmartCities.DTO
+﻿namespace SmartCities.DTO
 {
+    using System;
+
     public class SearchObjectDTO
     {
         public bool IncludeMale { get; set; }

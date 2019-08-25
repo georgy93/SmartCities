@@ -1,21 +1,22 @@
-﻿using DAL.Abstract;
-using SmartCities.DTO;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-
-namespace DAL.Concrete
+﻿namespace DAL.Concrete
 {
+    using Abstract;
+    using SmartCities.DTO;
+    using System.Collections.Generic;
+    using System.Data.SqlClient;
+    using System.Threading.Tasks;
+
     public class CDRMapManager : ICDRMapManager
     {
         public async Task<List<SearchResultDTO>> GetCDRData(SearchObjectDTO searchDto)
         {
-            using (var connection = DB.GetSqlConnection())
+            using (SqlConnection connection = DB.GetSqlConnection())
             {
-                using (var cmd = connection.CreateCommand())
+                using (SqlCommand cmd = connection.CreateCommand())
                 {
                     cmd.CommandTimeout = 120;
                     cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                    cmd.CommandText = @"spShowCallDetailRecords";
+                    cmd.CommandText = StoredProcedures.SpShowCallDetailRecords;
 
                     cmd.Parameters.AddWithValue("@IncludeMale", searchDto.IncludeMale);
                     cmd.Parameters.AddWithValue("@IncludeFemale", searchDto.IncludeFemale);

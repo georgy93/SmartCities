@@ -1,9 +1,9 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-
-namespace SmartCities.Models
+﻿namespace SmartCities.Models
 {
-    public class SearchObjectVm
+    using System;
+    using System.ComponentModel.DataAnnotations;
+
+    public class SearchObjectModel
     {
         [Display(Name = "Male")]
         public bool IncludeMale { get; set; }

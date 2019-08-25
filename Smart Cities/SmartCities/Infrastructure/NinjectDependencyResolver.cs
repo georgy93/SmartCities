@@ -1,12 +1,12 @@
-﻿using DAL.Abstract;
-using DAL.Concrete;
-using Ninject;
-using System;
-using System.Collections.Generic;
-using System.Web.Mvc;
-
-namespace SmartCities.Infrastructure
+﻿namespace SmartCities.Infrastructure
 {
+    using DAL.Abstract;
+    using DAL.Concrete;
+    using Ninject;
+    using System;
+    using System.Collections.Generic;
+    using System.Web.Mvc;
+
     public class NinjectDependencyResolver : IDependencyResolver
     {
         private IKernel kernel;
