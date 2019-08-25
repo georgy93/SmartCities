@@ -1,12 +1,11 @@
 ﻿namespace SmartCities.Controllers
 {
     using AutoMapper;
-    using System;
     using System.Web.Mvc;
 
     public class BaseController : Controller
     {
-        private bool isDisposed = false;
+        private bool disposed = false;
 
         protected TDto MapModelToDto<TDto>(object model)
             where TDto : class
@@ -18,7 +17,7 @@
 
         protected override void Dispose(bool disposing)
         {
-            if (isDisposed)
+            if (disposed)
                 return;
 
             if (disposing)
@@ -26,10 +25,11 @@
                 // free managed objects
             }
 
-            // free unmanaged objects (files, network connections, etc.)
+            // free unmanaged objects
 
             base.Dispose(disposing);
-            isDisposed = true;
+
+            disposed = true;
         }
     }
 }
