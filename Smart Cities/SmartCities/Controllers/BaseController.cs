@@ -4,7 +4,7 @@
     using System;
     using System.Web.Mvc;
 
-    public class BaseController : Controller, IDisposable
+    public class BaseController : Controller
     {
         private bool isDisposed = false;
 
