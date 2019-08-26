@@ -40,8 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SearchObjectDTO.cs" />
-    <Compile Include="SearchResultDTO.cs" />
+    <Compile Include="CallsFromLocationSearchDTO.cs" />
+    <Compile Include="CallsFromLocationResultDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

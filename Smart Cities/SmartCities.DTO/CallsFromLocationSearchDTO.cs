@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class SearchObjectDTO
+    public class CallsFromLocationSearchDTO
     {
         public bool IncludeMale { get; set; }
         public bool IncludeFemale { get; set; }

@@ -2,8 +2,8 @@
 {
     using DAL.Abstract;
     using DTO;
-    using Models;
     using System.Collections.Generic;
+    using System.Net;
     using System.Threading.Tasks;
     using System.Web.Mvc;
     using ViewModels;
@@ -12,30 +12,38 @@
     {
         private readonly ICDRMapManager cdrMapManager;
 
-        public HomeController(ICDRMapManager mapManager)
+        public HomeController(ICDRMapManager cdrMapManager)
         {
-            cdrMapManager = mapManager;
+            this.cdrMapManager = cdrMapManager;
         }
 
+        [HttpGet]
         public ActionResult Index()
         {
             return View();
         }
 
+        [HttpGet]
         public PartialViewResult SearchPanel()
         {
             return PartialView();
         }
 
-        public async Task<ActionResult> GetCDRcoordinates(SearchObjectModel searchObj)
+        public async Task<ActionResult> GetCDRcoordinates(CallsFromLocationSearchViewModel searchObject)
         {
-            var searchObjDto = MapModelToDto<SearchObjectDTO>(searchObj);
+            var searchObjectDto = MapModelToDto<CallsFromLocationSearchDTO>(searchObject);
 
-            var resultDto = await cdrMapManager.GetCDRData(searchObjDto);
+            try
+            {
+                var resultDto = await cdrMapManager.GetCDRDataAsync(searchObjectDto);                
+                var result = MapDtoToViewModel<IReadOnlyCollection<CallsFromLocationResultViewModel>>(resultDto);                
 
-            var result = MapDtoToViewModel<List<SearchResultViewModel>>(resultDto);
-
-            return Json(result, JsonRequestBehavior.AllowGet);
+                return Json(result, JsonRequestBehavior.AllowGet);
+            }
+            catch
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError);
+            }
         }
     }
 }

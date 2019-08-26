@@ -1,9 +1,9 @@
-﻿namespace SmartCities.Models
+﻿namespace SmartCities.ViewModels
 {
     using System;
     using System.ComponentModel.DataAnnotations;
 
-    public class SearchObjectModel
+    public class CallsFromLocationSearchViewModel
     {
         [Display(Name = "Male")]
         public bool IncludeMale { get; set; }

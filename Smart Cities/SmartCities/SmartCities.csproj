@@ -200,8 +200,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\NinjectDependencyResolver.cs" />
-    <Compile Include="Models\SearchObjectModel.cs" />
-    <Compile Include="ViewModels\SearchResultViewModel.cs" />
+    <Compile Include="ViewModels\CallsFromLocationSearchViewModel.cs" />
+    <Compile Include="ViewModels\CallsFromLocationResultViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

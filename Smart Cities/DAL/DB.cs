@@ -9,16 +9,16 @@
         {
             get
             {
-                return ConfigurationManager.ConnectionStrings["DbConnection"].ToString();                
+                return ConfigurationManager.ConnectionStrings["DbConnection"].ToString();
             }
         }
 
         public static SqlConnection GetSqlConnection()
         {
-            SqlConnection conn = new SqlConnection(ConnectionString); 
-            conn.Open(); 
+            SqlConnection conn = new SqlConnection(ConnectionString);
+            conn.Open();
 
             return conn;
-        }       
+        }
     }
 }

@@ -1,11 +1,9 @@
-﻿namespace SmartCities.ViewModels
+﻿namespace SmartCities.DTO
 {
-    public class SearchResultViewModel
+    public class CallsFromLocationResultDTO
     {
         public decimal CellLat { get; set; }
-
         public decimal CelLong { get; set; }
-
         public int Count { get; set; }
     }
 }

@@ -67,7 +67,7 @@ function refreshMap() {
     $.ajax({
         type: "POST",
         url: "/Home/GetCDRcoordinates",
-        data: { 'searchObj': payload },
+        data: { 'searchObject': payload },
         dataType: "json",
         success: function (response) {
             console.log(response)

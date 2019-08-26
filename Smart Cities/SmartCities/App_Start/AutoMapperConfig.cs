@@ -2,7 +2,6 @@
 {
     using AutoMapper;
     using DTO;
-    using Models;
     using ViewModels;
 
     public class AutoMapperConfig
@@ -19,8 +18,8 @@
         {
             public SmartCitiesProfile()
             {
-                CreateMap<SearchObjectModel, SearchObjectDTO>();
-                CreateMap<SearchResultDTO, SearchResultViewModel>();
+                CreateMap<CallsFromLocationSearchViewModel, CallsFromLocationSearchDTO>();
+                CreateMap<CallsFromLocationResultDTO, CallsFromLocationResultViewModel>();
             }
         }
     }
