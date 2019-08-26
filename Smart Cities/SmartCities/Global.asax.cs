@@ -1,10 +1,10 @@
 ﻿namespace SmartCities
 {
-    using App_Start;
+    using System.Web;
     using System.Web.Mvc;
     using System.Web.Routing;
 
-    public class MvcApplication : System.Web.HttpApplication
+    public class MvcApplication : HttpApplication
     {
         protected void Application_Start()
         {

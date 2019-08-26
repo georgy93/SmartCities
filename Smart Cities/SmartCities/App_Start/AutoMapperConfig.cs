@@ -1,4 +1,4 @@
-﻿namespace SmartCities.App_Start
+﻿namespace SmartCities
 {
     using AutoMapper;
     using DTO;
