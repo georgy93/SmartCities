@@ -9,7 +9,7 @@
 
     public class CDRMapManager : ICDRMapManager
     {
-        public async Task<IReadOnlyCollection<CallsFromLocationResultDTO>> GetCDRDataAsync(
+        public async Task<IEnumerable<CallsFromLocationResultDTO>> GetCDRDataAsync(
             CallsFromLocationSearchDTO searchDto)
         {
             using (SqlConnection connection = DB.GetSqlConnection())

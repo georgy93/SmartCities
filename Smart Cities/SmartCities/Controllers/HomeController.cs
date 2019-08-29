@@ -36,7 +36,7 @@
             try
             {
                 var resultDto = await cdrMapManager.GetCDRDataAsync(searchObjectDto);                
-                var result = MapDtoToViewModel<IReadOnlyCollection<CallsFromLocationResultViewModel>>(resultDto);                
+                var result = MapDtoToViewModel<IEnumerable<CallsFromLocationResultViewModel>>(resultDto);                
 
                 return Json(result, JsonRequestBehavior.AllowGet);
             }

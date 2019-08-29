@@ -6,6 +6,6 @@
 
     public interface ICDRMapManager
     {
-        Task<IReadOnlyCollection<CallsFromLocationResultDTO>> GetCDRDataAsync(CallsFromLocationSearchDTO searchDto);
+        Task<IEnumerable<CallsFromLocationResultDTO>> GetCDRDataAsync(CallsFromLocationSearchDTO searchDto);
     }
 }
