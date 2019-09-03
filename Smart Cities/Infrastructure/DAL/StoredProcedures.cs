@@ -1,4 +1,4 @@
-﻿namespace DAL
+﻿namespace Infrastructure.DAL
 {
     internal class StoredProcedures
     {

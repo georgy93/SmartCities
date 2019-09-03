@@ -26,6 +26,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TypeScriptToolsVersion>1.8</TypeScriptToolsVersion>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -200,7 +201,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\NinjectDependencyResolver.cs" />
-    <Compile Include="ViewModels\CallsFromLocationSearchViewModel.cs" />
+    <Compile Include="MappingProfiles\SmartCitiesProfile.cs" />
+    <Compile Include="Models\CallsFromLocationSearchModel.cs" />
     <Compile Include="ViewModels\CallsFromLocationResultViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -237,13 +239,13 @@
     <Folder Include="Views\Base\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{C6A73286-9EFB-442D-8885-0F072CA73401}</Project>
-      <Name>DAL</Name>
+    <ProjectReference Include="..\ApplicationCore\ApplicationCore.csproj">
+      <Project>{3874B567-1FFA-4987-8A18-72743CA6B68A}</Project>
+      <Name>ApplicationCore</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SmartCities.DTO\SmartCities.DTO.csproj">
-      <Project>{093F2246-9DD4-4887-852F-7A80320C0D98}</Project>
-      <Name>SmartCities.DTO</Name>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj">
+      <Project>{35BA5429-6C55-459A-A22B-0CA892122087}</Project>
+      <Name>Infrastructure</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

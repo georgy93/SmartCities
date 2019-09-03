@@ -1,26 +1,21 @@
 ﻿namespace SmartCities
 {
     using AutoMapper;
-    using DTO;
-    using ViewModels;
+    using System.Linq;
+    using System.Reflection;
 
     public class AutoMapperConfig
     {
         public static void Configure()
         {
+            var profiles = Assembly.GetExecutingAssembly()
+                .GetTypes()
+                .Where(x => typeof(Profile).IsAssignableFrom(x) && !x.IsAbstract && !x.IsInterface);
+
             Mapper.Initialize(cfg =>
             {
-                cfg.AddProfile<SmartCitiesProfile>();
+                cfg.AddProfiles(profiles);
             });
-        }
-
-        private class SmartCitiesProfile : Profile
-        {
-            public SmartCitiesProfile()
-            {
-                CreateMap<CallsFromLocationSearchViewModel, CallsFromLocationSearchDTO>();
-                CreateMap<CallsFromLocationResultDTO, CallsFromLocationResultViewModel>();
-            }
         }
     }
 }

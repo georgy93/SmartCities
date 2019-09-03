@@ -1,7 +1,7 @@
 ﻿namespace SmartCities.Infrastructure
 {
-    using DAL.Abstract;
-    using DAL.Concrete;
+    using ApplicationCore.Services;
+    using global::Infrastructure.Services;
     using Ninject;
     using System;
     using System.Collections.Generic;
@@ -30,7 +30,7 @@
 
         private void AddBindings()
         {
-            kernel.Bind<ICDRMapManager>().To<CDRMapManager>();
+            kernel.Bind<ICDService>().To<CDRService>();
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace SmartCities.DTO
+﻿namespace ApplicationCore.DTOs
 {
     public class CallsFromLocationResultDTO
     {

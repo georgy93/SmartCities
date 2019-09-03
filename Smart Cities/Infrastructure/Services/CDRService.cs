@@ -1,13 +1,14 @@
-﻿namespace DAL.Concrete
+﻿namespace Infrastructure.Services
 {
-    using Abstract;
-    using SmartCities.DTO;
+    using ApplicationCore.DTOs;
+    using ApplicationCore.Services;
+    using Infrastructure.DAL;
     using System.Collections.Generic;
     using System.Data;
     using System.Data.SqlClient;
     using System.Threading.Tasks;
 
-    public class CDRMapManager : ICDRMapManager
+    public class CDRService : ICDService
     {
         public async Task<IEnumerable<CallsFromLocationResultDTO>> GetCDRDataAsync(
             CallsFromLocationSearchDTO searchDto)

@@ -1,10 +1,10 @@
-﻿namespace DAL.Abstract
+﻿namespace ApplicationCore.Services
 {
-    using SmartCities.DTO;
+    using ApplicationCore.DTOs;
     using System.Collections.Generic;
     using System.Threading.Tasks;
 
-    public interface ICDRMapManager
+    public interface ICDService
     {
         Task<IEnumerable<CallsFromLocationResultDTO>> GetCDRDataAsync(CallsFromLocationSearchDTO searchDto);
     }

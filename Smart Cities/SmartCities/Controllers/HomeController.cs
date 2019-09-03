@@ -1,7 +1,8 @@
 ﻿namespace SmartCities.Controllers
 {
-    using DAL.Abstract;
-    using DTO;
+    using ApplicationCore.DTOs;
+    using ApplicationCore.Services;
+    using SmartCities.Models;
     using System.Collections.Generic;
     using System.Net;
     using System.Threading.Tasks;
@@ -10,9 +11,9 @@
 
     public class HomeController : BaseController
     {
-        private readonly ICDRMapManager cdrMapManager;
+        private readonly ICDService cdrMapManager;
 
-        public HomeController(ICDRMapManager cdrMapManager)
+        public HomeController(ICDService cdrMapManager)
         {
             this.cdrMapManager = cdrMapManager;
         }
@@ -29,7 +30,7 @@
             return PartialView();
         }
 
-        public async Task<ActionResult> GetCDRcoordinates(CallsFromLocationSearchViewModel searchObject)
+        public async Task<ActionResult> GetCDRcoordinates(CallsFromLocationSearchModel searchObject)
         {
             var searchObjectDto = MapModelToDto<CallsFromLocationSearchDTO>(searchObject);
 
