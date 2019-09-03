@@ -1,8 +1,8 @@
-﻿namespace SmartCities.Controllers
+﻿namespace SmartCities.Web.Controllers
 {
     using ApplicationCore.DTOs;
     using ApplicationCore.Services;
-    using SmartCities.Models;
+    using SmartCities.Web.Models;
     using System.Collections.Generic;
     using System.Net;
     using System.Threading.Tasks;

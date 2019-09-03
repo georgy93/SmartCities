@@ -1,9 +1,9 @@
-using SmartCities;
+using SmartCities.Web;
 
 [assembly: WebActivator.PreApplicationStartMethod(typeof(NinjectWebCommon), nameof(NinjectWebCommon.Start))]
 [assembly: WebActivator.ApplicationShutdownMethod(typeof(NinjectWebCommon), nameof(NinjectWebCommon.Stop))]
 
-namespace SmartCities
+namespace SmartCities.Web
 {
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
     using Ninject;

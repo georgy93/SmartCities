@@ -1,4 +1,4 @@
-﻿namespace SmartCities.Models
+﻿namespace SmartCities.Web.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;

@@ -1,4 +1,4 @@
-﻿namespace SmartCities.ViewModels
+﻿namespace SmartCities.Web.ViewModels
 {
     public class CallsFromLocationResultViewModel
     {

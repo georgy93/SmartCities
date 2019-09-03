@@ -1,9 +1,9 @@
-﻿namespace SmartCities.MappingProfiles
+﻿namespace SmartCities.Web.MappingProfiles
 {
     using ApplicationCore.DTOs;
     using AutoMapper;
-    using SmartCities.Models;
-    using SmartCities.ViewModels;
+    using SmartCities.Web.Models;
+    using SmartCities.Web.ViewModels;
 
     public class SmartCitiesProfile : Profile
     {

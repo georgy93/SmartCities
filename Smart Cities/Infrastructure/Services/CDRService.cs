@@ -1,4 +1,4 @@
-﻿namespace Infrastructure.Services
+﻿namespace SmartCities.Infrastructure.Services
 {
     using ApplicationCore.DTOs;
     using ApplicationCore.Services;

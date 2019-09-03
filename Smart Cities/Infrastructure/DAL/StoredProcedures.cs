@@ -1,4 +1,4 @@
-﻿namespace Infrastructure.DAL
+﻿namespace SmartCities.Infrastructure.DAL
 {
     internal class StoredProcedures
     {

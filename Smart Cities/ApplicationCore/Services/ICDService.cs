@@ -1,4 +1,4 @@
-﻿namespace ApplicationCore.Services
+﻿namespace SmartCities.ApplicationCore.Services
 {
     using ApplicationCore.DTOs;
     using System.Collections.Generic;

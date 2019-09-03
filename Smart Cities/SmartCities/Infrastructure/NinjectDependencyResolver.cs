@@ -1,8 +1,8 @@
-﻿namespace SmartCities.Infrastructure
+﻿namespace SmartCities.Web.Infrastructure
 {
     using ApplicationCore.Services;
-    using global::Infrastructure.Services;
     using Ninject;
+    using SmartCities.Infrastructure.Services;
     using System;
     using System.Collections.Generic;
     using System.Web.Mvc;

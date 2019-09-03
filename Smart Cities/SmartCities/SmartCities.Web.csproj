@@ -239,13 +239,13 @@
     <Folder Include="Views\Base\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ApplicationCore\ApplicationCore.csproj">
+    <ProjectReference Include="..\ApplicationCore\SmartCities.ApplicationCore.csproj">
       <Project>{3874B567-1FFA-4987-8A18-72743CA6B68A}</Project>
-      <Name>ApplicationCore</Name>
+      <Name>SmartCities.ApplicationCore</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj">
+    <ProjectReference Include="..\Infrastructure\SmartCities.Infrastructure.csproj">
       <Project>{35BA5429-6C55-459A-A22B-0CA892122087}</Project>
-      <Name>Infrastructure</Name>
+      <Name>SmartCities.Infrastructure</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

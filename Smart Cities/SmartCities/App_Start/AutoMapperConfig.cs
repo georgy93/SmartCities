@@ -1,4 +1,4 @@
-﻿namespace SmartCities
+﻿namespace SmartCities.Web
 {
     using AutoMapper;
     using System.Linq;

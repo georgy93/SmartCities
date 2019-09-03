@@ -1,4 +1,4 @@
-﻿namespace SmartCities
+﻿namespace SmartCities.Web
 {
     using System.Web.Mvc;
     using System.Web.Routing;

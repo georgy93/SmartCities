@@ -1,4 +1,4 @@
-﻿namespace SmartCities.Controllers
+﻿namespace SmartCities.Web.Controllers
 {
     using AutoMapper;
     using System.Web.Mvc;

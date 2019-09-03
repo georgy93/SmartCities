@@ -1,0 +1,9 @@
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\bin\Debug\ApplicationCore.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\bin\Debug\ApplicationCore.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\obj\Debug\SmartCities.Infrastructure.csprojAssemblyReference.cache
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\obj\Debug\SmartCities.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\obj\Debug\SmartCities.Infrastructure.csproj.CopyComplete
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\Infrastructure\obj\Debug\Infrastructure.pdb
