@@ -2,14 +2,12 @@
 {
     using ApplicationCore.DTOs;
     using AutoMapper;
-    using SmartCities.Web.Models;
     using SmartCities.Web.ViewModels;
 
-    public class SmartCitiesProfile : Profile
+    public class DomainToResponseProfile : Profile
     {
-        public SmartCitiesProfile()
+        public DomainToResponseProfile()
         {
-            CreateMap<CallsFromLocationSearchModel, CallsFromLocationSearchDTO>();
             CreateMap<CallsFromLocationResultDTO, CallsFromLocationResultViewModel>();
         }
     }

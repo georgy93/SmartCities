@@ -200,8 +200,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructure\Filters\ExceptionInterceptorAttribute.cs" />
+    <Compile Include="Infrastructure\Logging\ILogger.cs" />
+    <Compile Include="Infrastructure\Logging\Logger.cs" />
     <Compile Include="Infrastructure\NinjectDependencyResolver.cs" />
-    <Compile Include="MappingProfiles\SmartCitiesProfile.cs" />
+    <Compile Include="MappingProfiles\DomainToResponseProfile.cs" />
+    <Compile Include="MappingProfiles\RequestToDomainProfile.cs" />
     <Compile Include="Models\CallsFromLocationSearchModel.cs" />
     <Compile Include="ViewModels\CallsFromLocationResultViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

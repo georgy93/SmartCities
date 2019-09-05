@@ -10,7 +10,8 @@
         {
             var profiles = Assembly.GetExecutingAssembly()
                 .GetTypes()
-                .Where(x => typeof(Profile).IsAssignableFrom(x) && !x.IsAbstract && !x.IsInterface);
+                .Where(x => typeof(Profile).IsAssignableFrom(x) && !x.IsAbstract && !x.IsInterface)
+                .ToList();
 
             Mapper.Initialize(cfg =>
             {

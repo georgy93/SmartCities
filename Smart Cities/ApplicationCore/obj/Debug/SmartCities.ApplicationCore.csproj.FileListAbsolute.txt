@@ -3,3 +3,4 @@ D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\
 D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\ApplicationCore\obj\Debug\SmartCities.ApplicationCore.csproj.CoreCompileInputs.cache
 D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\ApplicationCore\obj\Debug\ApplicationCore.dll
 D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\ApplicationCore\obj\Debug\ApplicationCore.pdb
+D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\ApplicationCore\obj\Debug\SmartCities.ApplicationCore.csprojAssemblyReference.cache

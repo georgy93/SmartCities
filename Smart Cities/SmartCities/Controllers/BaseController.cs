@@ -1,19 +1,28 @@
 ﻿namespace SmartCities.Web.Controllers
 {
     using AutoMapper;
+    using SmartCities.Infrastructure.Logging;
     using System.Web.Mvc;
 
     public class BaseController : Controller
     {
         private bool disposed = false;
 
-        protected TDto MapModelToDto<TDto>(object model)
+        protected readonly ILogger logger;
+
+        public BaseController()
+            : this(DependencyResolver.Current.GetService<ILogger>())
+        {
+        }
+
+        public BaseController(ILogger logger)
+        {
+            this.logger = logger;
+        }
+
+        protected TDto Map<TDto>(object model)
             where TDto : class
             => Mapper.Map<TDto>(model);
-
-        protected TViewModel MapDtoToViewModel<TViewModel>(object dto)
-            where TViewModel : class
-            => Mapper.Map<TViewModel>(dto);
 
         protected override void Dispose(bool disposing)
         {

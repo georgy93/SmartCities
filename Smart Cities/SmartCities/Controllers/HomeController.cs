@@ -4,7 +4,6 @@
     using ApplicationCore.Services;
     using SmartCities.Web.Models;
     using System.Collections.Generic;
-    using System.Net;
     using System.Threading.Tasks;
     using System.Web.Mvc;
     using ViewModels;
@@ -32,19 +31,12 @@
 
         public async Task<ActionResult> GetCDRcoordinates(CallsFromLocationSearchModel searchObject)
         {
-            var searchObjectDto = MapModelToDto<CallsFromLocationSearchDTO>(searchObject);
+            var searchObjectDto = Map<CallsFromLocationSearchDTO>(searchObject);
 
-            try
-            {
-                var resultDto = await cdrMapManager.GetCDRDataAsync(searchObjectDto);                
-                var result = MapDtoToViewModel<IEnumerable<CallsFromLocationResultViewModel>>(resultDto);                
+            var resultDto = await cdrMapManager.GetCDRDataAsync(searchObjectDto);
+            var result = Map<IEnumerable<CallsFromLocationResultViewModel>>(resultDto);
 
-                return Json(result, JsonRequestBehavior.AllowGet);
-            }
-            catch
-            {
-                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError);
-            }
+            return Json(result, JsonRequestBehavior.AllowGet);
         }
     }
 }
