@@ -3,7 +3,7 @@
     using System.Configuration;
     using System.Data.SqlClient;
 
-    internal class DB
+    internal class DBFactory
     {
         private static string ConnectionString
         {

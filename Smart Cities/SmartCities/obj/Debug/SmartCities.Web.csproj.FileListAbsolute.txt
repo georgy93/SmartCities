@@ -1,5 +1,4 @@
 D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities\obj\Debug\SmartCities.Web.csprojAssemblyReference.cache
-D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities\obj\Debug\SmartCities.Web.csproj.CoreCompileInputs.cache
 D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities\obj\Debug\SmartCities.dll
 D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities\obj\Debug\SmartCities.pdb
 D:\Програмиране\Smart Cities Big Data repo\SmartCities\Smart Cities\SmartCities\bin\ApplicationInsights.config

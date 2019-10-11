@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAL\DB.cs" />
+    <Compile Include="DAL\DBFactory.cs" />
     <Compile Include="DAL\StoredProcedures\SpShowCallDetailRecords.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\CDRService.cs" />

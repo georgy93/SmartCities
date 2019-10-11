@@ -10,7 +10,9 @@
 
     internal class SpShowCallDetailRecords
     {
-        public static async Task<IEnumerable<CallsFromLocationResultDTO>> Execute(
+        private const string StoredProcedureName = "spShowCallDetailRecords";
+
+        public static async Task<IEnumerable<CallsFromLocationResultDTO>> ExecuteAsync(
               bool includeMale,
               bool includeFemale,
               bool includeUnknowGender,
@@ -21,13 +23,13 @@
               bool include_66_to_100,
               DateTime? startDate)
         {
-            using (SqlConnection connection = DB.GetSqlConnection())
+            using (SqlConnection connection = DBFactory.GetSqlConnection())
             {
                 using (SqlCommand cmd = connection.CreateCommand())
                 {
                     cmd.CommandTimeout = 120;
                     cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.CommandText = "spShowCallDetailRecords";
+                    cmd.CommandText = StoredProcedureName;
 
                     cmd.Parameters.AddWithValue("@IncludeMale", includeMale);
                     cmd.Parameters.AddWithValue("@IncludeFemale", includeFemale);

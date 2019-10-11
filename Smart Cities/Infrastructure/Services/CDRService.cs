@@ -8,9 +8,9 @@
 
     public class CDRService : ICDService
     {
-        public async Task<IEnumerable<CallsFromLocationResultDTO>> GetCDRDataAsync(CallsFromLocationSearchDTO searchDto)
+        public Task<IEnumerable<CallsFromLocationResultDTO>> GetCDRDataAsync(CallsFromLocationSearchDTO searchDto)
         {
-            var result = await SpShowCallDetailRecords.Execute(
+            var result = SpShowCallDetailRecords.ExecuteAsync(
                 searchDto.IncludeMale,
                 searchDto.IncludeFemale,
                 searchDto.IncludeUnknowGender,
