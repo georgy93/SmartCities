@@ -1,11 +1,11 @@
-﻿namespace SmartCities.ApplicationCore.Services
+﻿namespace ApplicationCore.Services
 {
-    using ApplicationCore.DTOs;
+    using ApplicationCore.Domain;
     using System.Collections.Generic;
     using System.Threading.Tasks;
 
     public interface ICDService
     {
-        Task<IEnumerable<CallsFromLocationResultDTO>> GetCDRDataAsync(CallsFromLocationSearchDTO searchDto);
+        Task<IEnumerable<CallsFromLocationResult>> GetCDRDataAsync(CallsFromLocationSearchFilter searchDto);
     }
 }

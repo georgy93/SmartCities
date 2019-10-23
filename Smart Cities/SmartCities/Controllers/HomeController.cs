@@ -1,6 +1,6 @@
 ﻿namespace SmartCities.Web.Controllers
 {
-    using ApplicationCore.DTOs;
+    using ApplicationCore.Domain;
     using ApplicationCore.Services;
     using SmartCities.Web.Models;
     using System.Collections.Generic;
@@ -31,7 +31,7 @@
 
         public async Task<ActionResult> GetCDRcoordinates(CallsFromLocationSearchModel searchObject)
         {
-            var searchObjectDto = Map<CallsFromLocationSearchDTO>(searchObject);
+            var searchObjectDto = Map<CallsFromLocationSearchFilter>(searchObject);
 
             var resultDto = await cdrMapManager.GetCDRDataAsync(searchObjectDto);
             var result = Map<IEnumerable<CallsFromLocationResultViewModel>>(resultDto);

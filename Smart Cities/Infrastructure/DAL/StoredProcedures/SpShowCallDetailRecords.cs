@@ -1,7 +1,6 @@
 ﻿namespace Infrastructure.DAL.StoredProcedures
 {
-    using SmartCities.ApplicationCore.DTOs;
-    using SmartCities.Infrastructure.DAL;
+    using ApplicationCore.Domain;
     using System;
     using System.Collections.Generic;
     using System.Data;
@@ -12,7 +11,7 @@
     {
         private const string StoredProcedureName = "spShowCallDetailRecords";
 
-        public static async Task<IEnumerable<CallsFromLocationResultDTO>> ExecuteAsync(
+        public static async Task<IEnumerable<CallsFromLocationResult>> ExecuteAsync(
               bool includeMale,
               bool includeFemale,
               bool includeUnknowGender,
@@ -41,13 +40,13 @@
                     cmd.Parameters.AddWithValue("@Include_66_to_100", include_66_to_100);
                     cmd.Parameters.AddWithValue("@StartDate", startDate);
 
-                    var result = new List<CallsFromLocationResultDTO>();
+                    var result = new List<CallsFromLocationResult>();
 
                     var reader = await cmd.ExecuteReaderAsync();
 
                     while (await reader.ReadAsync())
                     {
-                        result.Add(new CallsFromLocationResultDTO()
+                        result.Add(new CallsFromLocationResult()
                         {
                             CellLat = (decimal)reader["cellLat"],
                             CelLong = (decimal)reader["cellLong"],

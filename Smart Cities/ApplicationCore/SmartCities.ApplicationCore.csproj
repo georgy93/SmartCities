@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DTOs\CallsFromLocationResultDTO.cs" />
-    <Compile Include="DTOs\CallsFromLocationSearchDTO.cs" />
+    <Compile Include="Domain\CallsFromLocationResult.cs" />
+    <Compile Include="Domain\CallsFromLocationSearchFilter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ICDService.cs" />
   </ItemGroup>

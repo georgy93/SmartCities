@@ -1,6 +1,6 @@
-﻿namespace SmartCities.ApplicationCore.DTOs
+﻿namespace ApplicationCore.Domain
 {
-    public class CallsFromLocationResultDTO
+    public class CallsFromLocationResult
     {
         public decimal CellLat { get; set; }
         public decimal CelLong { get; set; }

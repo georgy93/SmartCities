@@ -1,6 +1,6 @@
 ﻿namespace SmartCities.Web.MappingProfiles
 {
-    using ApplicationCore.DTOs;
+    using ApplicationCore.Domain;
     using AutoMapper;
     using SmartCities.Web.ViewModels;
 
@@ -8,7 +8,7 @@
     {
         public DomainToResponseProfile()
         {
-            CreateMap<CallsFromLocationResultDTO, CallsFromLocationResultViewModel>();
+            CreateMap<CallsFromLocationResult, CallsFromLocationResultViewModel>();
         }
     }
 }

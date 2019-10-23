@@ -1,4 +1,4 @@
-﻿namespace SmartCities.Infrastructure.DAL
+﻿namespace Infrastructure.DAL
 {
     using System.Configuration;
     using System.Data.SqlClient;

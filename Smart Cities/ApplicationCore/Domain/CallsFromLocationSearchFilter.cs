@@ -1,8 +1,8 @@
-﻿namespace SmartCities.ApplicationCore.DTOs
+﻿namespace ApplicationCore.Domain
 {
     using System;
 
-    public class CallsFromLocationSearchDTO
+    public class CallsFromLocationSearchFilter
     {
         public bool IncludeMale { get; set; }
         public bool IncludeFemale { get; set; }
